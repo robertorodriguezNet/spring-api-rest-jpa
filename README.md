@@ -15,3 +15,8 @@ El acceso se puede realizar desde Postman o navegador.
 1. Book
 2. BookRepository
 3. BookController
+   * Operaciones CRUD
+
+Dependencias para recibir peticiones HTTP
+* Starter Web
+* Spring Dev Tools
